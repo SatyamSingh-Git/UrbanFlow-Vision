@@ -38,13 +38,13 @@ What you get in minutes:
 ## Project structure
 
 - `Final/` — all runnable code and assets live here
-  - `Overall.py` — end‑to‑end pipeline (detect → track → project → write coords)
-  - `get_videos.py` — optional TfL video downloader
-  - `get_trajectory.py` — create trajectory plots from coords
-  - `get_speed.py` — compute speeds from coords + video FPS
-  - `ToSimulation.py` — export OpenSCENARIO (.xosc)
-  - `detectron2_detection.py`, `deep_sort/` — core vision modules
-  - `cfg/`, `data/` — model configs and label files
+	- `Overall.py` — end‑to‑end pipeline (detect → track → project → write coords)
+	- `get_videos.py` — optional TfL video downloader
+	- `get_trajectory.py` — create trajectory plots from coords
+	- `get_speed.py` — compute speeds from coords + video FPS
+	- `ToSimulation.py` — export OpenSCENARIO (.xosc)
+	- `detectron2_detection.py`, `deep_sort/` — core vision modules
+	- `cfg/`, `data/` — model configs and label files
 - `environment.yml` — base Conda environment (CPU PyTorch by default)
 - `Final/LICENSE` — GPL‑3.0 license
 
