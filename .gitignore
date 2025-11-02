@@ -1,0 +1,40 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & results
+Final/Results/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.png
+*.jpg
+*.jpeg
+
+# Checkpoints / models
+*.pt
+*.pth
+*.t7
+*.onnx
+*.ckpt
+
+# Environments / misc
+.env
+.venv/
+.env*/
+
+# Logs
+logs/
+*.log
