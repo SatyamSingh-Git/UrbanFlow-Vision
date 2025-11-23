@@ -149,7 +149,7 @@ Outputs:
 
 ## Demo video
 
-- Walkthrough: https://www.youtube.com/watch?v=nomez0_uHzo
+- Walkthrough: [https://www.youtube.com/watch?v=nomez0_uHzo](https://drive.google.com/file/d/1xL_vGwugVAPK19vnZJRPXc07SWL5hI62/view?usp=sharing)
 
 ## Ethics and use
 
