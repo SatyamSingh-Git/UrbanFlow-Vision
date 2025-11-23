@@ -1,6 +1,6 @@
 <div align="center">
 
-# UrbanFlow Vision
+# UrbanFlow AI Vision
 
 Real‑time traffic intelligence from street cameras: detect, track, project to road‑plane, estimate speed, and export to OpenSCENARIO.
 
@@ -149,7 +149,7 @@ Outputs:
 
 ## Demo video
 
-- Walkthrough: [https://www.youtube.com/watch?v=nomez0_uHzo](https://drive.google.com/file/d/1xL_vGwugVAPK19vnZJRPXc07SWL5hI62/view?usp=sharing)
+- Walkthrough (If video does not run automatically, Please download it): [https://www.youtube.com/watch?v=nomez0_uHzo](https://drive.google.com/file/d/1xL_vGwugVAPK19vnZJRPXc07SWL5hI62/view?usp=sharing)
 
 ## Ethics and use
 
